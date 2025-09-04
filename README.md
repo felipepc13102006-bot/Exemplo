@@ -1,2 +1,2 @@
 # Exemplo
-Atividade de IAS Professor Ricardo Marciano
+Atividade do Professor Ricardo Marciano
